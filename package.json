@@ -1,5 +1,5 @@
 {
-  "name": "binance-api",
+  "name": "binanceapi",
   "version": "1.0.0",
   "description": "NodeJs wrapper for binance API",
   "main": "index.js",
@@ -7,12 +7,22 @@
     "test": "NODE_ENV=test mocha"
   },
   "keywords": [
+    "api",
+    "cryptocurrency",
+    "crypto",
     "trading",
     "binance",
-    "bitcoin"
+    "ethereum",
+    "bitcoin",
+    "btc",
+    "eth",
+    "exchange",
+    "lambo",
+    "moon",
+    "jvc"
   ],
   "author": "Anthony Lahlah",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.16.2",
     "ws": "^3.2.0"
