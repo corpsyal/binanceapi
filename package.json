@@ -1,10 +1,14 @@
 {
   "name": "binanceapi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NodeJs wrapper for binance API",
   "main": "index.js",
   "scripts": {
     "test": "NODE_ENV=test mocha"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/corpsyal/binanceapi"
   },
   "keywords": [
     "api",
