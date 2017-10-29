@@ -1,6 +1,6 @@
 {
   "name": "binanceapi",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "NodeJs wrapper for binance API",
   "main": "index.js",
   "scripts": {
